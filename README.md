@@ -1,6 +1,6 @@
 # hk_ipo_prediction
 
-A pipeline example of machine learning projects.
+Predict first day performance of Hong Kong IPO stocks: A pipeline example of machine learning projects.
 
 
 ### Procedures:
