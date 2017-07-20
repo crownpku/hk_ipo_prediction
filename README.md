@@ -11,3 +11,4 @@ A pipeline example of machine learning projects.
 
 3. Use xgboost for regression model to predict first day performance. Generated feature importance plot is very interesting (blame matplotlib for not showing Chinese characters properly...)
 
+![Feature Importance Plot](https://raw.githubusercontent.com/crownpku/hk_ipo_prediction/master/img/feature_importance.png)
